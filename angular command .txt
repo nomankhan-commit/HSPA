@@ -1,6 +1,3 @@
-***Important Angular Extensions***
-	> Angular Essential Extension
-	> Auto Rename Tag
-	> Bracket Pair Color DLW
-	> Angular Files
-	> IntelliSense for CSS class names in HTML
+--version
+ng new application-name
+ng serve

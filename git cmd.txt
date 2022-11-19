@@ -1,6 +1,8 @@
-***Important Angular Extensions***
-	> Angular Essential Extension
-	> Auto Rename Tag
-	> Bracket Pair Color DLW
-	> Angular Files
-	> IntelliSense for CSS class names in HTML
+git init 
+git config --global user.email "email"
+git config --global user.name "name"
+git remote add origin https://github.com/nomankhan-commit/HSPA.git
+git branch --set-upstream-to origin/main
+git add .
+git commit -m "msg"
+git push
