@@ -3,13 +3,18 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { MyCompComponent } from './my-comp/my-comp.component';
+import { NavBarComponent } from './customComponents/navBar/navBar.component';
+import { PropertyCardComponent } from './customComponents/propertyCard/propertyCard.component';
+import { PropertyListComponent } from './customComponents/propertyList/propertyList.component';
+
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    MyCompComponent
+    NavBarComponent,
+    PropertyCardComponent,
+    PropertyListComponent
   ],
   imports: [
     BrowserModule,
